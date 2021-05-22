@@ -11,3 +11,4 @@ for i in range(n):
   result = max(result, min_value)
 
 print(result)
+
