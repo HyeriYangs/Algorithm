@@ -16,4 +16,3 @@ result += count * first #가장 큰 수 더하기
 result += (m-count) * second # 두 번째로 큰 수 더하기 
 
 print(result)
-
