@@ -10,3 +10,7 @@ for coin in coin_types:
 
 print(count)
 
+
+# // 연산자 : 몫을 구함. 
+# % 연산자 : 나머지를 구함. 
+
